@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>tcp-udp</module>
+      <module>rpc-protocol</module>
   </modules>
 
   <name>mk-tcp-udp</name>
